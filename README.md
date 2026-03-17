@@ -21,6 +21,8 @@
 1. Efficient Memory Management for Large Language Model Serving with PagedAttention (SOSP 2023)
 2. SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills (2023)
 3. DistServe: disaggregating prefill and decoding for goodput-optimized large language model serving (OSDI 2024)
+1. Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC
+6. PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications
 
 ## Scheduling for LLM Agents ⭐️
 
@@ -37,6 +39,19 @@
 11. Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration (2025)
 12. KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows (2025)
 13. Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications (2025)
+14. DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference (Feb 2025)
+15. ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System (Feb 2026) and Autellix: An Efficient Serving Engine for LLM Agents as General Programs (Feb 2025)
+16. Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents (Dec 2025)
+17. Kairos: Low-latency Multi-Agent Serving with Shared LLMs and Excessive Loads in the Public Cloud (Aug 2025)
+18. Towards Efficient Agents: A Co-Design of Inference Architecture and System
+19. CONCUR: Proactive Agent-Level Admission Control for Efficient Agentic Batch Inference
+20. AgentServe: Algorithm-System Co-Design for Efficient Agentic AI Serving on a Consumer-Grade GPU
+21. Justitia: Fair and Efficient Scheduling for LLM Applications
+22. Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents
+23. Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms
+24. Optimas: Optimizing Compound AI Systems with Globally Aligned Local Rewards
+25. Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions
+26. Twill: Scheduling Compound AI Systems on Heterogeneous Mobile
 
 
 ## LLM Agent Workflow ⬜️
@@ -56,6 +71,10 @@
 13. Fundamentals of Building Autonomous LLM Agents (2025)
 14. DeepAnalyze: Agentic Large Language Models for Autonomous Data Science (2025)
 7. A Survey on Agent Workflow -- Status and Future (2025)
+2. AIOS: LLM Agent Operating System
+3. Cortex AISQL: A Production SQL Engine for Unstructured Data
+4. Interactional Fairness in LLM Multi-Agent Systems
+
 
 ## Multi-Agent Collaboration ⬜️
 
@@ -107,6 +126,6 @@
 
 
 ## Miscellaneous Papers ⬜️
-
-
-4. A Survey on Large Language Model Acceleration based on KV Cache Management
+1. A Survey on Large Language Model Acceleration based on KV Cache Management
+5. METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation
+7. WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training
