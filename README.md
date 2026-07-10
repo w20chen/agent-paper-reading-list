@@ -26,21 +26,21 @@
 
 ## Scheduling for LLM Agents ⭐️
 
-1. Parrot: Efficient Serving of LLM-based Applications with Semantic Variable (OSDI 2024)
-2. Autellix: An Efficient Serving Engine for LLM Agents as General Programs (2025)
-3. Continuum: Efficient and Robust Multi-turn LLM Agent Scheduling with KV Cache Time-to-Live (2025)
-4. Towards End-to-End Optimization of LLM-based Applications with Ayo (as known as Teola) (ASPLOS 2025)
+1. ⭐️Parrot: Efficient Serving of LLM-based Applications with Semantic Variable (OSDI 2024)
+2. ⭐️Autellix: An Efficient Serving Engine for LLM Agents as General Programs (2025)
+3. ⭐️Continuum: Efficient and Robust Multi-turn LLM Agent Scheduling with KV Cache Time-to-Live (2025)
+4. ⭐️Towards End-to-End Optimization of LLM-based Applications with Ayo (as known as Teola) (ASPLOS 2025)
 5. Alto: An Efficient Network Orchestrator for Compound AI Systems (EuroMLSys 2024)
 6. Batch Query Processing and Optimization for Agentic Workflows (2025)
-7. LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications (ICDCS 2025)
-8. NALAR: A Serving Framework for Agent Workflows
+7. ⭐️LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications (ICDCS 2025)
+8. ⭐️NALAR: A Serving Framework for Agent Workflows
 9. Transcending Cost-Quality Tradeoff in Agent Serving via Session-Aware KV Cache Management (NeurIPS 2025)
 10. Software-Defined Agentic Serving (2026)
 11. Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration (2025)
-12. KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows (2025)
-13. Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications (2025)
+12. ⭐️KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows (2025)
+13. ⭐️Tokencake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications (2025)
 14. DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference (Feb 2025)
-15. ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System (Feb 2026) and Autellix: An Efficient Serving Engine for LLM Agents as General Programs (Feb 2025)
+15. ⭐️ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System (Feb 2026) and Autellix: An Efficient Serving Engine for LLM Agents as General Programs (Feb 2025)
 16. Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents (Dec 2025)
 17. Kairos: Low-latency Multi-Agent Serving with Shared LLMs and Excessive Loads in the Public Cloud (Aug 2025)
 18. Towards Efficient Agents: A Co-Design of Inference Architecture and System
@@ -52,6 +52,15 @@
 24. Optimas: Optimizing Compound AI Systems with Globally Aligned Local Rewards
 25. Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions
 26. Twill: Scheduling Compound AI Systems on Heterogeneous Mobile
+27. ⭐️MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems
+28. ⭐️SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters
+29. ⭐️Hive: A Multi-Agent Infrastructure for Algorithm- and Task-Level Scaling
+30. ⭐️Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI
+31. ⭐️Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective
+32. Efficient Serving for Dynamic Agent Workflows with Prediction-based KV Cache Management
+33. Serving Agentic Workloads at Scale with vLLM x Mooncake (https://vllm.ai/blog/2026-05-06-mooncake-store)
+34. Fast State Restoration in LLM Serving with HCache
+35. Online Scheduling for LLM Inference with KV Cache Constraints
 
 
 ## LLM Agent Workflow ⬜️
@@ -129,3 +138,4 @@
 1. A Survey on Large Language Model Acceleration based on KV Cache Management
 5. METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation
 7. WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training
+4. Kunpeng 920: The First 7-nm Chiplet-Based 64-Core ARM SoC for Cloud Services (https://ieeexplore.ieee.org/document/9444893)
