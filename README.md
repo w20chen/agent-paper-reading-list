@@ -64,7 +64,7 @@
 36. ⭐️SwarmX: Agentic Scheduling for Low-Latency Agentic Systems
 37. ⭐️Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution
 38. ⭐️TokenSpeed: A Speed-of-Light LLM Inference Engine for Agentic Workloads (https://lightseek.org/blog/lightseek-tokenspeed.html)
-39. ⭐️MLCOMMONS CHAKRA: ADVANCING PERFORMANCE BENCHMARKING AND CO-DESIGN USING STANDARDIZED EXECUTION TRACES
+39. ⭐️MLCOMMONS CHAKRA: ADVANCING PERFORMANCE BENCHMARKING AND CO-DESIGN USING STANDARDIZED EXECUTION TRACES https://arxiv.org/abs/2605.11333v3
 40. ⭐️AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving
 41. ⭐️Don't Let AI Agents YOLO Your Files: Shifting Information and Control to Filesystems for Agent Safety and Autonomy
 42. ⭐️DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback
@@ -74,6 +74,18 @@
 46. ⭐️A CPU-CENTRIC PERSPECTIVE ON AGENTIC AI (https://arxiv.org/pdf/2511.00739v2)
 47. ⭐️AgentCgroup: Understanding and Controlling OS Resources of AI Agents
 48. the-cpu-bottleneck-in-agentic-ai (https://www.viksnewsletter.com/p/the-cpu-bottleneck-in-agentic-ai)
+49. ⭐️Efficient Serving of LLM Applications with Probabilistic Demand Modeling
+50. From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents
+51. Optimizing Agentic Workflows using Meta-tools https://arxiv.org/abs/2601.22037
+52. Pancake: Hierarchical Memory System for Multi-Agent LLM Serving https://arxiv.org/abs/2602.21477
+53. Orla: A Library for Serving LLM-Based Multi-Agent Systems https://arxiv.org/abs/2603.13605
+54. StateAct: Enhancing LLM Base Agents via Self-prompting and State-tracking https://aclanthology.org/2025.realm-1.27/
+55. Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference https://arxiv.org/pdf/2603.22774
+56. The Cost of Dynamic Reasoning: Demystifying AI Agents andTest-Time Scaling from an AI Infrastructure Perspective
+57. TrEnv-X: Transparently Share Serverless Execution EnvironmentsAcross Diferent Functions and Nodes https://dl.acm.org/doi/epdf/10.1145/3805475
+58. Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines https://arxiv.org/pdf/2604.15186
+59. Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling https://arxiv.org/pdf/2604.08178
+60. ClawEnvKit: Automatic Environment Generation for Claw-Like Agents https://arxiv.org/pdf/2604.18543
 
 
 ## LLM Agent Workflow ⬜️
