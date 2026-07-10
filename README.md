@@ -57,7 +57,7 @@
 29. ⭐️Hive: A Multi-Agent Infrastructure for Algorithm- and Task-Level Scaling
 30. ⭐️Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI
 31. ⭐️Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective
-32. Efficient Serving for Dynamic Agent Workflows with Prediction-based KV Cache Management
+32. Efficient Serving for Dynamic Agent Workflows with Prediction-based KV Cache Management https://arxiv.org/abs/2605.06472
 33. Serving Agentic Workloads at Scale with vLLM x Mooncake (https://vllm.ai/blog/2026-05-06-mooncake-store)
 34. Fast State Restoration in LLM Serving with HCache
 35. Online Scheduling for LLM Inference with KV Cache Constraints
@@ -86,6 +86,11 @@
 58. Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines https://arxiv.org/pdf/2604.15186
 59. Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling https://arxiv.org/pdf/2604.08178
 60. ClawEnvKit: Automatic Environment Generation for Claw-Like Agents https://arxiv.org/pdf/2604.18543
+61. Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference https://arxiv.org/abs/2601.12967
+62. A Policy-Driven Runtime Layer for Agentic LLM Serving https://arxiv.org/abs/2605.27744
+63. Pythia: Exploiting Workflow Predictability for Efficient Agent-Native LLM Serving https://arxiv.org/abs/2604.25899
+64. FATE: Future-State-Aware Scheduling for Heterogeneous LLM Workflows https://arxiv.org/abs/2605.07238
+65. 
 
 
 ## LLM Agent Workflow ⬜️
