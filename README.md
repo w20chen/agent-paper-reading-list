@@ -61,6 +61,19 @@
 33. Serving Agentic Workloads at Scale with vLLM x Mooncake (https://vllm.ai/blog/2026-05-06-mooncake-store)
 34. Fast State Restoration in LLM Serving with HCache
 35. Online Scheduling for LLM Inference with KV Cache Constraints
+36. ⭐️SwarmX: Agentic Scheduling for Low-Latency Agentic Systems
+37. ⭐️Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution
+38. ⭐️TokenSpeed: A Speed-of-Light LLM Inference Engine for Agentic Workloads (https://lightseek.org/blog/lightseek-tokenspeed.html)
+39. ⭐️MLCOMMONS CHAKRA: ADVANCING PERFORMANCE BENCHMARKING AND CO-DESIGN USING STANDARDIZED EXECUTION TRACES
+40. ⭐️AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving
+41. ⭐️Don't Let AI Agents YOLO Your Files: Shifting Information and Control to Filesystems for Agent Safety and Autonomy
+42. ⭐️DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback
+43. PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services (https://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.parties.pdf)
+44. Orchard: An Open-Source Agentic Modeling Framework
+45. ⭐️Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes
+46. ⭐️A CPU-CENTRIC PERSPECTIVE ON AGENTIC AI (https://arxiv.org/pdf/2511.00739v2)
+47. ⭐️AgentCgroup: Understanding and Controlling OS Resources of AI Agents
+48. the-cpu-bottleneck-in-agentic-ai (https://www.viksnewsletter.com/p/the-cpu-bottleneck-in-agentic-ai)
 
 
 ## LLM Agent Workflow ⬜️
@@ -136,6 +149,7 @@
 
 ## Miscellaneous Papers ⬜️
 1. A Survey on Large Language Model Acceleration based on KV Cache Management
-5. METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation
-7. WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training
-4. Kunpeng 920: The First 7-nm Chiplet-Based 64-Core ARM SoC for Cloud Services (https://ieeexplore.ieee.org/document/9444893)
+2. METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation
+3. WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training
+4. ⭐️Kunpeng 920: The First 7-nm Chiplet-Based 64-Core ARM SoC for Cloud Services (https://ieeexplore.ieee.org/document/9444893 https://chipsandcheese.com/p/huaweis-kunpeng-920-and-taishan-v110)
+5. ⭐️Intel VTune Profiler Performance Analysis Cookbook (https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/2023-1/top-down-microarchitecture-analysis-method.html)
