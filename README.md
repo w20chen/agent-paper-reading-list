@@ -90,7 +90,10 @@
 62. A Policy-Driven Runtime Layer for Agentic LLM Serving https://arxiv.org/abs/2605.27744
 63. Pythia: Exploiting Workflow Predictability for Efficient Agent-Native LLM Serving https://arxiv.org/abs/2604.25899
 64. FATE: Future-State-Aware Scheduling for Heterogeneous LLM Workflows https://arxiv.org/abs/2605.07238
-65. 
+65. Parallelizing Tool Execution and LLM Generation for Low-Latency Agent Serving https://arxiv.org/abs/2603.18897
+66. Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference https://arxiv.org/pdf/2603.22774
+67. AgentSPEX: An Agent Specification and Execution Language https://arxiv.org/abs/2604.13346
+68. ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning https://arxiv.org/abs/2603.13019
 
 
 ## LLM Agent Workflow ⬜️
