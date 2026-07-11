@@ -23,6 +23,7 @@
 3. DistServe: disaggregating prefill and decoding for goodput-optimized large language model serving (OSDI 2024)
 1. Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC
 6. PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications
+7. LMETRIC: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling (https://arxiv.org/pdf/2603.15202v2)
 
 ## Scheduling for LLM Agents ⭐️
 
