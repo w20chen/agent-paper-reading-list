@@ -95,6 +95,10 @@
 66. Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference https://arxiv.org/pdf/2603.22774
 67. AgentSPEX: An Agent Specification and Execution Language https://arxiv.org/abs/2604.13346
 68. ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning https://arxiv.org/abs/2603.13019
+69. A Workflow-Aware Serving Layer for Agentic Applications https://arxiv.org/pdf/2607.02942v1
+70. HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling https://arxiv.org/pdf/2605.16637v1
+71. ExoFlow: A Universal Workflow System for Exactly-Once DAGs https://www.usenix.org/system/files/osdi23-zhuang.pdf
+72. Faastlane: Accelerating Function-as-a-Service Workflows https://www.usenix.org/system/files/atc21-kotni.pdf
 
 
 ## LLM Agent Workflow ⬜️
