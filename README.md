@@ -72,7 +72,7 @@
 43. PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services (https://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.parties.pdf)
 44. Orchard: An Open-Source Agentic Modeling Framework
 45. ⭐️Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes
-46. ⭐️A CPU-CENTRIC PERSPECTIVE ON AGENTIC AI (https://arxiv.org/pdf/2511.00739v2)
+46. ⭐️Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective (https://arxiv.org/abs/2511.00739)
 47. ⭐️AgentCgroup: Understanding and Controlling OS Resources of AI Agents
 48. the-cpu-bottleneck-in-agentic-ai (https://www.viksnewsletter.com/p/the-cpu-bottleneck-in-agentic-ai)
 49. ⭐️Efficient Serving of LLM Applications with Probabilistic Demand Modeling
@@ -99,6 +99,10 @@
 70. HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling https://arxiv.org/pdf/2605.16637v1
 71. ExoFlow: A Universal Workflow System for Exactly-Once DAGs https://www.usenix.org/system/files/osdi23-zhuang.pdf
 72. Faastlane: Accelerating Function-as-a-Service Workflows https://www.usenix.org/system/files/atc21-kotni.pdf
+73. Observation, Not Prediction: Conversation-Level Disaggregated Scheduling for Agentic Serving https://arxiv.org/abs/2606.01839
+74. Irminsul: MLA-Native Position-Independent Caching for Agentic LLM Serving https://arxiv.org/abs/2605.05696
+75. ALPS: An Adaptive Learning, Priority OS Scheduler for Serverless Functions https://www.usenix.org/system/files/atc24-fu.pdf
+76. SONIC: Application-Aware Data Passing for Chained Serverless Applications https://www.usenix.org/conference/atc21/presentation/mahgoub
 
 
 ## LLM Agent Workflow ⬜️
